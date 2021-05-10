@@ -1,0 +1,69 @@
+Keep a change log to describe all the changes made to program source files. The purpose of this is so that people investigating bugs in the future will know about the changes that might have introduced the bug. Often a new bug can be found by looking at what was recently changed. More importantly, change logs can help you eliminate conceptual inconsistencies between different parts of a program, by giving you a history of how the conflicting concepts arose and who they came from.
+
+Copyright 2017 MeetMighty.com
+
+	
+Changelog Legend:
+----
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+Versioning Legend: 1.0.0
+----
+
+MAJOR version when you make major changes,
+MINOR version when you add features or functions
+PATCH version when you make bug fixes
+
+-----
+
+Version 1.0.2
+
+[!] Fixed the screenshot
+[!] Fixed Navigation Fallback issue
+[!] Remove all pro buttons expect one
+
+
+-----
+
+-----
+
+Version 1.0.3
+
+[!] Fixed the tgm domain notice
+
+-----
+
+-----
+
+Version 1.0.4
+
+[!] Fixed the minification of scripts and files issue
+[+] Language pot file added
+
+
+-----
+
+Version 1.9.1
+
+[!] Fixed the header image responsive issue
+
+
+-----
+
+
+Version 2.0
+
+[!] Fixed the Grouped Product and External Product Button Style
+[*] Updated FontAwesome and Bootstrap to the latest Version
+[!] Fixed the comment function issue
+[!] Fixed the ids not showing issue on blog posts using the_id() instead of get_the_id()
+
+Version 2.0.1
+
+[!] Fixed the Comment form style
